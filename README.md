@@ -9,7 +9,7 @@ I'm also fluent in Spanish 🇪🇸, English 🇬🇧, French 🇫🇷, and Germ
 **Projects** 
 
 * **Oracle Java Bot (Feb, 2024 - Jun, 2024)**
-    * Developed a Telegram web app for Oracle using Spring , React ⚛️, and Telegram .
+    * Developed a Telegram web app for Oracle using Spring 🍃, React ⚛️, and Telegram .
     * Employed microservices architecture ️, Docker , and Kubernetes ☸️ for deployment.
     * Utilized Oracle Cloud ☁️ for hosting an autonomous database.
     * Designed and developed the user interface with React ⚛️ to provide a seamless user experience.
@@ -21,8 +21,9 @@ I'm also fluent in Spanish 🇪🇸, English 🇬🇧, French 🇫🇷, and Germ
 
 **Skills** 
 
-* **Frameworks/Languages:** Java (Spring ), C#.NET core and Framework), GO, Angular, React ⚛️, SQL Server-SQL Developer, PostgreSQL
-* **Cloud:** Microsoft Azure ☁️ (Microsoft), GCP, OCI, Kubernetes ☸️, Docker , Terraform, Microservices ️
+* **Programming Languages:** Java, C#, Go
+* **Frameworks:** Spring, React, Angular, C#.NET Core (.NET Framework), React Native
+* **Cloud:** Microsoft Azure ☁️ (Microsoft), GCP, OCI, Kubernetes ☸️, Docker , Terraform
 * **Languages:** Spanish (Native speaker) 🇪🇸, English (Highly proficient) 🇬🇧, French (Highly proficient) 🇫🇷, German (Very good command) 🇩🇪
 
 **Education** ‍
