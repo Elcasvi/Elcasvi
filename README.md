@@ -21,7 +21,7 @@ I'm also fluent in Spanish 🇪🇸, English 🇬🇧, French 🇫🇷, and Germ
 
 **Skills** 
 
-* **Programming Languages:** Java, C#, Go
+* **Programming Languages:** Java, C#, C++, Go, Python, JavaScript
 * **Frameworks:** Spring, React, Angular, C#.NET Core (.NET Framework), React Native
 * **Cloud:** Microsoft Azure ☁️ (Microsoft), GCP, OCI, Kubernetes ☸️, Docker , Terraform
 * **Languages:** Spanish (Native speaker) 🇪🇸, English (Highly proficient) 🇬🇧, French (Highly proficient) 🇫🇷, German (Very good command) 🇩🇪
