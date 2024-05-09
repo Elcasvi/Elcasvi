@@ -32,12 +32,4 @@ Tecnológico de Monterrey, Computer technology engineer (Feb, 2020 - Feb, 2025)
 **Contact** 
 
 * Email: casvi.sanchez@gmail.com
-* Portfolio: [Web.portfolio]
-
-**Optional Extras**
-
-You can add some optional extras to your README, such as:
-
-* Statistics: Add badges to show your GitHub stats like contributions, followers, or streak. There are services like github-readme-stats that can generate these badges for you.
-* Reading List: List some articles, books, or resources that you recommend to other developers.
-* Fun Stuff: You can add a touch of personality by including a fun fact about yourself or a link to your favorite coding meme.
+* Portfolio: [Web Portfolio](https://sanchezapps.net)
