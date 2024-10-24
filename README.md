@@ -22,8 +22,8 @@ I'm also fluent in Spanish 🇪🇸, English 🇬🇧, French 🇫🇷, and Germ
 **Skills** 
 
 * **Programming Languages:** Java, C#, C++, Go, Python, JavaScript
-* **Frameworks:** Spring, React, Angular, C#.NET Core (.NET Framework), React Native
-* **Cloud:** Microsoft Azure ☁️ (Microsoft), GCP, OCI, Kubernetes ☸️, Docker , Terraform
+* **Frameworks:** Spring, FastAPI, C#.NET Core (.NET Framework), React Native, React, Angular
+* **Cloud:** AWS, Microsoft Azure ☁️ (Microsoft), GCP, OCI, Kubernetes ☸️, Docker , Terraform
 * **Languages:** Spanish (Native speaker) 🇪🇸, English (Highly proficient) 🇬🇧, French (Highly proficient) 🇫🇷, German (Very good command) 🇩🇪
 
 **Education** ‍
@@ -32,5 +32,5 @@ Tecnológico de Monterrey, Computer technology engineer (Feb, 2020 - Feb, 2025)
 
 **Contact** 
 
-* Email: casvi.sanchez@gmail.com
+* Email: casvi_sanchez@outlook.com
 * Portfolio: [Web Portfolio](https://sanchezapps.net)
